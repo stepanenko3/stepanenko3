@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 [![Nova Command Runner](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-command-runner)](https://github.com/stepanenko3/nova-command-runner)
 [![Nova Logs Tool](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-logs-tool)](https://github.com/stepanenko3/nova-logs-tool)
-[![Nova Menu Builder](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-menu-builder)](https://github.com/stepanenko3/nova-menu-builder)
 [![Nova Menu Collapsed](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-menu-collapsed)](https://github.com/stepanenko3/nova-menu-collapsed)
 [![Nova Markdown](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-markdown)](https://github.com/stepanenko3/nova-markdown)
 [![Nova Cards](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-cards)](https://github.com/stepanenko3/nova-cards)

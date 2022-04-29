@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanenko3&layout=compact&theme=dark)](https://github.com/maloun96/github-readme-stats)
 
-## My Laravel Nova Packages
+## My packages
 
-[![Nova Command Runner](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-command-runner&theme=dark)](https://github.com/stepanenko3/nova-command-runner)
-[![Nova Logs Tool](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-logs-tool&theme=dark)](https://github.com/stepanenko3/nova-logs-tool)
-[![Nova Menu Collapsed](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-menu-collapsed&theme=dark)](https://github.com/stepanenko3/nova-menu-collapsed)
-[![Nova Markdown](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-markdown&theme=dark)](https://github.com/stepanenko3/nova-markdown)
-[![Nova Cards](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-cards&theme=dark)](https://github.com/stepanenko3/nova-cards)
-[![Nova Json](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=nova-json&theme=dark)](https://github.com/stepanenko3/nova-json)
+[![laravel-system-resources](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=laravel-system-resources&theme=dark)](https://github.com/stepanenko3/laravel-system-resources)
+[![composer-versions-check](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=composer-versions-check&theme=dark)](https://github.com/stepanenko3/composer-versions-check)
+[![vue3-nestable](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=vue3-nestable&theme=dark)](https://github.com/stepanenko3/vue3-nestable)

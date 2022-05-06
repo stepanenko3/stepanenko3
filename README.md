@@ -1,3 +1,7 @@
+![StandWithUkraine](https://raw.githubusercontent.com/stepanenko3/StandWithUkraine/main/badges/StandWithUkraine.svg)
+
+![Stand With Ukraine](https://raw.githubusercontent.com/stepanenko3/StandWithUkraine/main/banner2-direct.svg)
+
 ### Hi there 👋
 
 I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast, 'cause I enjoy taking part in every project. This is a good opportunity for me to learn, to get new skills, and to meet new interesting people.  First of all, to make a website, I concentrate on what the user need, then, I do my work pixel-by-pixel. I create perfect UI solutions using HTML, CSS, Javascript, etc. and scalable backend using PHP. Providing excellent feedback, I can guarantee a quick and high-quality work. You'll get a good experience cooperating with me.

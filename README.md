@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanenko3&layout=compact&theme=dark)](https://github.com/maloun96/github-readme-stats)
 
-## My packages
+## My Laravel Nova Packages
 
 - [Nova Settings](https://github.com/stepanenko3/nova-settings.git)
 - [Nova Health](https://github.com/stepanenko3/nova-health)
@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 - [Nova Markdown](https://github.com/stepanenko3/nova-markdown)
 - [Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)
 - [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
+- [Nova JSON](https://github.com/stepanenko3/nova-json)
+
+
+## My packages
+
 - [Laravel System Resources](https://github.com/stepanenko3/laravel-system-resources)
 - [Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)
 - [Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)
-- [Nova JSON](https://github.com/stepanenko3/nova-json)

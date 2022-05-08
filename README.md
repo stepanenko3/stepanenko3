@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - [Nova Settings](https://github.com/stepanenko3/nova-settings.git)
 - [Nova Health](https://github.com/stepanenko3/nova-health)
 - [Nova Cards](https://github.com/stepanenko3/nova-cards)
-- [Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)
-- [Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)
 - [Nova Markdown](https://github.com/stepanenko3/nova-markdown)
 - [Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)
+- [Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)
+- [Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)
 - [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 - [Nova JSON](https://github.com/stepanenko3/nova-json)
 

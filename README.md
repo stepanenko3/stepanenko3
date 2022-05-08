@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 
 ## My packages
 
+- [Nova Settings](https://github.com/stepanenko3/nova-settings.git)
 - [Nova Health](https://github.com/stepanenko3/nova-health)
+- [Nova Cards](https://github.com/stepanenko3/nova-cards)
 - [Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)
 - [Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)
 - [Nova Markdown](https://github.com/stepanenko3/nova-markdown)
-- [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
-- [Nova Cards](https://github.com/stepanenko3/nova-cards)
 - [Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)
+- [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 - [Laravel System Resources](https://github.com/stepanenko3/laravel-system-resources)
 - [Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)
 - [Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)

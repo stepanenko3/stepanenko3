@@ -28,6 +28,14 @@ Here are some ideas to get you started:
 
 ## My packages
 
-[![laravel-system-resources](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=laravel-system-resources&theme=dark)](https://github.com/stepanenko3/laravel-system-resources)
-[![composer-versions-check](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=composer-versions-check&theme=dark)](https://github.com/stepanenko3/composer-versions-check)
-[![vue3-nestable](https://github-readme-stats.vercel.app/api/pin/?username=stepanenko3&repo=vue3-nestable&theme=dark)](https://github.com/stepanenko3/vue3-nestable)
+- [Nova Health](https://github.com/stepanenko3/nova-health)
+- [Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)
+- [Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)
+- [Nova Markdown](https://github.com/stepanenko3/nova-markdown)
+- [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
+- [Nova Cards](https://github.com/stepanenko3/nova-cards)
+- [Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)
+- [Laravel System Resources](https://github.com/stepanenko3/laravel-system-resources)
+- [Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)
+- [Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)
+- [Nova JSON](https://github.com/stepanenko3/nova-json)

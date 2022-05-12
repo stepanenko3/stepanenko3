@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - [Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)
 - [Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)
 - [Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)
+- [Nova Image Tags](https://github.com/stepanenko3/nova-image-tags)
 - [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 - [Nova JSON](https://github.com/stepanenko3/nova-json)
 

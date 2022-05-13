@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [Nova JSON](https://github.com/stepanenko3/nova-json)
 
 ## Laravel Packages
-- [Laravel Runtime Store](https://github.com/stepanenko3/laravel-runtime-store.git)
+- [Laravel Runtime Config](https://github.com/stepanenko3/laravel-runtime-config.git)
 - [Laravel System Resources](https://github.com/stepanenko3/laravel-system-resources)
 
 ## Other Packages

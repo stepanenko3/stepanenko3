@@ -279,7 +279,6 @@ function getRefreshDate() {
 }
 
 async function getWeatherInformation() {
-    console.log(process.env);
     return fetch(
         `https://api.openweathermap.org/data/2.5/weather?q=kiev&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )
@@ -289,21 +288,24 @@ async function getWeatherInformation() {
             let data = {
                 ...refreshDate,
             };
-            data.city = r.name;
-            data.city_temp = Math.round(r.main.temp);
-            data.city_temp_feels_like = Math.round(r.main.feels_like);
-            data.city_weather = r.weather[0].description;
-            data.city_weather_icon = r.weather[0].icon;
-            data.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: 'Europe/Kiev',
-            });
-            data.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: 'Europe/Kiev',
-            });
+
+            if (r.main) {
+                data.city = r.name;
+                data.city_temp = Math.round(r.main.temp);
+                data.city_temp_feels_like = Math.round(r.main.feels_like);
+                data.city_weather = r.weather[0].description;
+                data.city_weather_icon = r.weather[0].icon;
+                data.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    timeZone: 'Europe/Kiev',
+                });
+                data.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    timeZone: 'Europe/Kiev',
+                });
+            }
 
             return data;
         });

@@ -1,0 +1,19 @@
+{
+  "name": "stepanenko3",
+  "version": "1.0.0",
+  "description": "About me",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepanenko3/stepanenko3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepanenko3/stepanenko3/issues"
+  },
+  "homepage": "https://github.com/stepanenko3/stepanenko3#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

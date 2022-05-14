@@ -214,9 +214,5 @@ Currently, the weather in Kyiv is: <b>19°C, feels like 18°C, broken clouds</b>
 Today, the sun rises at <b>05:12</b> and sets at <b>20:36</b>
 </p>
 
-<<<<<<< HEAD
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 14 May, 16:40 EEST</p>
-=======
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 14 May, 15:09 EEST</p>
->>>>>>> b8908cac11dfeb977deb769999af03c750040528
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 14 May, 16:41 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

@@ -43,9 +43,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ### More about me
 
-- I Want to buy white <img alt="Tesla" src="https://aleen42.github.io/badges/src/tesla.svg" /> model 3/y
+- I Want to buy <img alt="Tesla" src="https://aleen42.github.io/badges/src/tesla.svg" /> Model Y or 3 with white interior
 - When i work, i listen <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" /> and <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-F34E68?style=flat&logo=apple%20music&logoColor=white" />
-- I invest to <img alt="DASH" src="https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white" /> <img alt="XRP" src="https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white" /> <img alt="POLKADOT" src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=000" /> and other cryptocurrencies
+- I invest to <img alt="DASH" src="https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white" /> <img alt="XRP" src="https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white" /> <img alt="POLKADOT" src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff" /> and other cryptocurrencies
 - My favorite browser <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white" />
 
 <!--

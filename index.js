@@ -279,6 +279,7 @@ function getRefreshDate() {
 }
 
 async function getWeatherInformation() {
+    console.log(process.env);
     return fetch(
         `https://api.openweathermap.org/data/2.5/weather?q=kiev&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     )

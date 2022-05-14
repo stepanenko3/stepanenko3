@@ -50,7 +50,7 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 - I invest to <img alt="DASH" src="https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white" /> <img alt="XRP" src="https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white" /> <img alt="POLKADOT" src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff" /> and other cryptocurrencies
 - My favorite browser <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white" />
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+### if you like what i do, buy me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/stepanenko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -182,6 +182,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </tbody>
 </table>
 
+
+Currently, the weather in Kyiv is: ___19°C, feels like 19°C, broken clouds___.<br>
+Today, the sun rises at **05:12** and sets at **20:36**.
+
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 14 May, 11:55 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 14 May, 13:54 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

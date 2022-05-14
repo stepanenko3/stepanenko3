@@ -23,7 +23,7 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 - My favorite browser <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style={{ badgeStyle }}&logo=Safari&logoColor=white" />
 
 {{ #me.buymeacoffee }}
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+### if you like what i do, buy me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/stepanenko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 {{ /me.buymeacoffee }}
@@ -83,6 +83,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </table>
 
 {{ #readmeUpdatedInfo }}
+
+Currently, the weather in {{ city }} is: ___{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}___.<br>
+Today, the sun rises at **{{ sun_rise }}** and sets at **{{ sun_set }}**.
+
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{ date }}</p>
 <p align="center"><img src="https://github.com/{{ me.username }}/{{ me.username }}/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/></p>

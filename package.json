@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "About me",
   "main": "index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stepanenko3/stepanenko3.git"
@@ -14,6 +15,8 @@
   },
   "homepage": "https://github.com/stepanenko3/stepanenko3#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "dotenv": "^16.0.1",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.2.4"
   }
 }

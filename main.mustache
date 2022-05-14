@@ -84,10 +84,11 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 
 {{ #readmeUpdatedInfo }}
 
-Currently, the weather in {{ city }} is: ___{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}___.<br>
-Today, the sun rises at **{{ sun_rise }}** and sets at **{{ sun_set }}**.
-
 ------------
+<p align="center">
+Currently, the weather in {{ city }} is: <b>{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}</b><br/>
+Today, the sun rises at <b>{{ sun_rise }}</b> and sets at <b>{{ sun_set }}</b>
+</p>
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{ date }}</p>
 <p align="center"><img src="https://github.com/{{ me.username }}/{{ me.username }}/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/></p>
 {{ /readmeUpdatedInfo }}

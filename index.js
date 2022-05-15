@@ -195,6 +195,11 @@ function getRefreshDate() {
                 manager: 'packagist',
             },
             {
+                name: 'Nova Settings',
+                key: 'nova-settings',
+                manager: 'packagist',
+            },
+            {
                 name: 'Nova Markdown',
                 key: 'nova-markdown',
                 manager: 'packagist',

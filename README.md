@@ -83,6 +83,16 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
         </td/>
     </tr>
     <tr>
+        <td><a href="https://github.com/stepanenko3/nova-settings"><b>Nova Settings</b></a></td>
+        <td>
+          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41" />
+          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
+          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
+          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
+        </td/>
+    </tr>
+    <tr>
         <td><a href="https://github.com/stepanenko3/nova-markdown"><b>Nova Markdown</b></a></td>
         <td>
           <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41" />
@@ -210,9 +220,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ------------
 <p align="center">
-Currently, the weather in Kyiv is: <b>13°C, feels like 13°C, overcast clouds</b><br/>
+Currently, the weather in Kyiv is: <b>17°C, feels like 16°C, broken clouds</b><br/>
 Today, the sun rises at <b>05:10</b> and sets at <b>20:37</b>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 15 May, 09:07 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 15 May, 11:38 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

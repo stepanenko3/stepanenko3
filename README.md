@@ -220,9 +220,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ------------
 <p align="center">
-Currently, the weather in Kyiv is: <b>16°C, feels like 15°C, broken clouds</b><br/>
-Today, the sun rises at <b>04:49</b> and sets at <b>21:03</b>
+Currently, the weather in Kyiv is: <b>17°C, feels like 16°C, clear sky</b><br/>
+Today, the sun rises at <b>04:48</b> and sets at <b>21:04</b>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 5 June, 21:06 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 6 June, 00:01 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

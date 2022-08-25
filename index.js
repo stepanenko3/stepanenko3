@@ -238,6 +238,11 @@ function getRefreshDate() {
 
         laravelPackages: [
             {
+                name: 'Laravel Log Viewer',
+                key: 'laravel-log-viewer',
+                manager: 'packagist',
+            },
+            {
                 name: 'Laravel Pagination',
                 key: 'laravel-pagination',
                 manager: 'packagist',

@@ -257,6 +257,11 @@ function getRefreshDate() {
                 key: 'laravel-system-resources',
                 manager: 'packagist',
             },
+            {
+                name: 'Laravel Helpers',
+                key: 'laravel-helpers',
+                manager: 'packagist',
+            },
         ],
 
         otherPackages: [

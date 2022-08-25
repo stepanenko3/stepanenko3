@@ -208,6 +208,16 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
           <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
         </td/>
     </tr>
+    <tr>
+        <td><a href="https://github.com/stepanenko3/laravel-helpers"><b>Laravel Helpers</b></a></td>
+        <td>
+          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
+          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+        </td/>
+    </tr>
   </tbody>
 </table>
 
@@ -240,9 +250,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ------------
 <p align="center">
-Currently, the weather in Kyiv is: <b>26°C, feels like 26°C, clear sky</b><br/>
+Currently, the weather in Kyiv is: <b>25°C, feels like 25°C, clear sky</b><br/>
 Today, the sun rises at <b>06:01</b> and sets at <b>19:59</b>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 August, 21:02 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 25 August, 22:23 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

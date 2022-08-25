@@ -238,6 +238,11 @@ function getRefreshDate() {
 
         laravelPackages: [
             {
+                name: 'Laravel Pagination',
+                key: 'laravel-pagination',
+                manager: 'packagist',
+            },
+            {
                 name: 'Laravel Runtime Config',
                 key: 'laravel-runtime-config',
                 manager: 'packagist',

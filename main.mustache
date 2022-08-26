@@ -37,16 +37,37 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 <table>
   <tbody>
     {{ #novaPackages }}
-    <tr>
-        <td><a href="https://github.com/{{ me.username }}/{{ key }}"><b>{{ name }}</b></a></td>
-        <td>
-          <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-        </td/>
-    </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <b>{{ name }}</b>
+                </a>
+            </td>
+            <td>
+                {{ #packagist }}
+                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /packagist }}
+                {{ #npm }}
+                    <a href="https://www.npmjs.com/package/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /npm }}
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
+                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
+                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+            </td/>
+        </tr>
     {{ /novaPackages }}
   </tbody>
 </table>
@@ -55,37 +76,37 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 <table>
   <tbody>
     {{ #laravelPackages }}
-    <tr>
-        <td>
-            <a href="https://github.com/{{ me.username }}/{{ key }}">
-                <b>{{ name }}</b>
-            </a>
-        </td>
-        <td>
-            {{ #packagist }}
-                <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
-                    <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+        <tr>
+            <td>
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <b>{{ name }}</b>
                 </a>
-            {{ /packagist }}
-            {{ #npm }}
-                <a href="https://www.npmjs.com/package/{{ key }}">
-                    <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+            </td>
+            <td>
+                {{ #packagist }}
+                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /packagist }}
+                {{ #npm }}
+                    <a href="https://www.npmjs.com/package/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /npm }}
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
                 </a>
-            {{ /npm }}
-            <a href="https://github.com/{{ me.username }}/{{ key }}">
-                <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-            </a>
-            <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
-                <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-            </a>
-            <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
-                <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-            </a>
-            <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
-                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-            </a>
-        </td/>
-    </tr>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
+                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
+                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+            </td/>
+        </tr>
     {{ /laravelPackages }}
   </tbody>
 </table>
@@ -95,16 +116,37 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 <table>
   <tbody>
     {{ #otherPackages }}
-    <tr>
-        <td><a href="https://github.com/{{ me.username }}/{{ key }}"><b>{{ name }}</b></a></td>
-        <td>
-          <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-        </td/>
-    </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <b>{{ name }}</b>
+                </a>
+            </td>
+            <td>
+                {{ #packagist }}
+                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /packagist }}
+                {{ #npm }}
+                    <a href="https://www.npmjs.com/package/{{ key }}">
+                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
+                    </a>
+                {{ /npm }}
+                <a href="https://github.com/{{ me.username }}/{{ key }}">
+                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
+                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
+                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
+                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
+                </a>
+            </td/>
+        </tr>
     {{ /otherPackages }}
   </tbody>
 </table>

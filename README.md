@@ -69,6 +69,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-health">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-health">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41" />
                     </a>
@@ -93,6 +96,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-cards">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-cards">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41" />
                     </a>
@@ -117,6 +123,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-settings">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-settings">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41" />
                     </a>
@@ -141,6 +150,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-markdown">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-markdown">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41" />
                     </a>
@@ -165,6 +177,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-menu-collapsed">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-menu-collapsed">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41" />
                     </a>
@@ -189,6 +204,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-command-runner">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-command-runner">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41" />
                     </a>
@@ -213,6 +231,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-filemanager">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-filemanager">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41" />
                     </a>
@@ -237,6 +258,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-image-tags">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-image-tags">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41" />
                     </a>
@@ -261,6 +285,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-logs-tool">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-logs-tool">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41" />
                     </a>
@@ -285,6 +312,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/nova-json">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/nova-json">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41" />
                     </a>
@@ -315,6 +345,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/laravel-log-viewer">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/laravel-log-viewer">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
                     </a>
@@ -339,6 +372,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/laravel-pagination">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/laravel-pagination">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
                     </a>
@@ -363,6 +399,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/laravel-runtime-config">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/laravel-runtime-config">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
                     </a>
@@ -387,6 +426,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/laravel-system-resources">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/laravel-system-resources">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
                     </a>
@@ -411,6 +453,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/laravel-helpers">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/laravel-helpers">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
                     </a>
@@ -442,6 +487,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/vue3-nestable">
+                    <img alt="Version" src="https://img.shields.io/npm/v/vue3-nestable?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://www.npmjs.com/package/vue3-nestable">
                         <img alt="Downloads" src="https://img.shields.io/npm/dt/vue3-nestable?style=flat&labelColor=343b41" />
                     </a>
@@ -466,6 +514,9 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
                 </a>
             </td>
             <td>
+                <a href="https://github.com/stepanenko3/composer-versions-check">
+                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41" />
+                </a>
                     <a href="https://packagist.org/packages/stepanenko3/composer-versions-check">
                         <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41" />
                     </a>
@@ -492,5 +543,5 @@ Currently, the weather in Kyiv is: <b>23°C, feels like 23°C, few clouds</b><br
 Today, the sun rises at <b>06:02</b> and sets at <b>19:57</b>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 August, 09:26 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 August, 09:28 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

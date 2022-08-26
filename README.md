@@ -169,53 +169,138 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 <table>
   <tbody>
     <tr>
-        <td><a href="https://github.com/stepanenko3/laravel-log-viewer"><b>Laravel Log Viewer</b></a></td>
         <td>
-          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
+            <a href="https://github.com/stepanenko3/laravel-log-viewer">
+                <b>Laravel Log Viewer</b>
+            </a>
+        </td>
+        <td>
+                <a href="https://packagist.org/packages/stepanenko3/laravel-log-viewer">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
+                </a>
+                <a href="https://www.npmjs.com/package/laravel-log-viewer">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
+                </a>
+            <a href="https://github.com/stepanenko3/laravel-log-viewer">
+                <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-log-viewer/network/members">
+                <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-log-viewer/issues">
+                <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-log-viewer/pulls">
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
+            </a>
         </td/>
     </tr>
     <tr>
-        <td><a href="https://github.com/stepanenko3/laravel-pagination"><b>Laravel Pagination</b></a></td>
         <td>
-          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
+            <a href="https://github.com/stepanenko3/laravel-pagination">
+                <b>Laravel Pagination</b>
+            </a>
+        </td>
+        <td>
+                <a href="https://packagist.org/packages/stepanenko3/laravel-pagination">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
+                </a>
+                <a href="https://www.npmjs.com/package/laravel-pagination">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
+                </a>
+            <a href="https://github.com/stepanenko3/laravel-pagination">
+                <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-pagination/network/members">
+                <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-pagination/issues">
+                <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-pagination/pulls">
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
+            </a>
         </td/>
     </tr>
     <tr>
-        <td><a href="https://github.com/stepanenko3/laravel-runtime-config"><b>Laravel Runtime Config</b></a></td>
         <td>
-          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
+            <a href="https://github.com/stepanenko3/laravel-runtime-config">
+                <b>Laravel Runtime Config</b>
+            </a>
+        </td>
+        <td>
+                <a href="https://packagist.org/packages/stepanenko3/laravel-runtime-config">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
+                </a>
+                <a href="https://www.npmjs.com/package/laravel-runtime-config">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
+                </a>
+            <a href="https://github.com/stepanenko3/laravel-runtime-config">
+                <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-runtime-config/network/members">
+                <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-runtime-config/issues">
+                <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-runtime-config/pulls">
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
+            </a>
         </td/>
     </tr>
     <tr>
-        <td><a href="https://github.com/stepanenko3/laravel-system-resources"><b>Laravel System Resources</b></a></td>
         <td>
-          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
+            <a href="https://github.com/stepanenko3/laravel-system-resources">
+                <b>Laravel System Resources</b>
+            </a>
+        </td>
+        <td>
+                <a href="https://packagist.org/packages/stepanenko3/laravel-system-resources">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
+                </a>
+                <a href="https://www.npmjs.com/package/laravel-system-resources">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
+                </a>
+            <a href="https://github.com/stepanenko3/laravel-system-resources">
+                <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-system-resources/network/members">
+                <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-system-resources/issues">
+                <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-system-resources/pulls">
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
+            </a>
         </td/>
     </tr>
     <tr>
-        <td><a href="https://github.com/stepanenko3/laravel-helpers"><b>Laravel Helpers</b></a></td>
         <td>
-          <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
-          <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-          <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-          <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+            <a href="https://github.com/stepanenko3/laravel-helpers">
+                <b>Laravel Helpers</b>
+            </a>
+        </td>
+        <td>
+                <a href="https://packagist.org/packages/stepanenko3/laravel-helpers">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
+                </a>
+                <a href="https://www.npmjs.com/package/laravel-helpers">
+                    <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
+                </a>
+            <a href="https://github.com/stepanenko3/laravel-helpers">
+                <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-helpers/network/members">
+                <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-helpers/issues">
+                <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+            </a>
+            <a href="https://github.com/stepanenko3/laravel-helpers/pulls">
+                <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
+            </a>
         </td/>
     </tr>
   </tbody>
@@ -254,5 +339,5 @@ Currently, the weather in Kyiv is: <b>21°C, feels like 21°C, few clouds</b><br
 Today, the sun rises at <b>06:02</b> and sets at <b>19:57</b>
 </p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 August, 08:09 EEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 26 August, 08:14 EEST</p>
 <p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>

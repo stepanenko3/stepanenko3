@@ -8,7 +8,7 @@
 
 I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast, 'cause I enjoy taking part in every project. This is a good opportunity for me to learn, to get new skills, and to meet new interesting people. First of all, to make a website, I concentrate on what the user need, then, I do my work pixel-by-pixel. I create perfect UI solutions using HTML, CSS, Javascript, etc. and scalable backend using PHP. Providing excellent feedback, I can guarantee a quick and high-quality work. You'll get a good experience cooperating with me.
 
-### Things I code with :man_technologist
+### Things I code with 👨‍💻
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -92,7 +92,7 @@ Today, the sun rises at **06:59** and sets at **18:35**
 
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Sunday, 2 October at 21:13 EEST
+Last refresh: Sunday, 2 October at 21:18 EEST
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

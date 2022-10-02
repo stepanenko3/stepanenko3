@@ -3,7 +3,11 @@ import 'dotenv/config' // see https://github.com/motdotla/dotenv#how-do-i-use-do
 import Mustache from 'mustache';
 import fetch from 'node-fetch';
 import fs from 'fs';
-const MUSTACHE_MAIN_DIR = './main.mustache';
+
+const templates = {
+    main: 'main.mustache',
+    package: 'package.mustache',
+};
 
 /**
   * DATA is the object that contains all
@@ -371,11 +375,21 @@ async function getWeatherInformation() {
   * C - We create a README.md file with the generated output
   */
 async function generateReadMe(data) {
-    await fs.readFile(MUSTACHE_MAIN_DIR, (err, content) => {
-        if (err) throw err;
-        const output = Mustache.render(content.toString(), data);
-        fs.writeFileSync('README.md', output);
-    });
+
+    const partials = {};
+
+    Object
+        .keys(templates)
+        .forEach(n => partials[n] = fs.readFileSync(templates[n]).toString())
+
+    const main = partials.main || '';
+
+    if (!main)
+        return;
+
+    const output = Mustache.render(main, data, partials);
+    
+    fs.writeFileSync('README.md', output);
 }
 
 async function action() {

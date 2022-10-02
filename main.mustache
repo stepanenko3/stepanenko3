@@ -8,19 +8,18 @@
 
 I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider myself an enthusiast, 'cause I enjoy taking part in every project. This is a good opportunity for me to learn, to get new skills, and to meet new interesting people. First of all, to make a website, I concentrate on what the user need, then, I do my work pixel-by-pixel. I create perfect UI solutions using HTML, CSS, Javascript, etc. and scalable backend using PHP. Providing excellent feedback, I can guarantee a quick and high-quality work. You'll get a good experience cooperating with me.
 
-### Things I code with :man_technologist:
-<p>
-    {{ #skills }}
-    <img alt="{{ key }}" src="https://img.shields.io/badge/-{{ key }}-{{ color }}?style={{ badgeStyle }}&logo={{ logo }}&logoColor=white" />
-    {{ /skills }}
-</p>
+### Things I code with :man_technologist
+
+{{ #skills }}
+![{{ key }}](https://img.shields.io/badge/-{{ key }}-{{ color }}?style={{ badgeStyle }}&logo={{ logo }}&logoColor=white)
+{{ /skills }}
 
 ### More about me
 
-- I Want to buy <img alt="Tesla" src="https://aleen42.github.io/badges/src/tesla.svg" /> Model Y or 3 with white interior
-- When i work, i listen <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style={{ badgeStyle }}&logo=spotify&logoColor=white" /> and <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-F34E68?style={{ badgeStyle }}&logo=apple%20music&logoColor=white" />
-- I invest to <img alt="DASH" src="https://img.shields.io/badge/DASH-008DE4?style={{ badgeStyle }}&logo=dash&logoColor=white" /> <img alt="XRP" src="https://img.shields.io/badge/XRP-black?style={{ badgeStyle }}&logo=xrp&logoColor=white" /> <img alt="POLKADOT" src="https://img.shields.io/badge/polkadot-E6007A?style={{ badgeStyle }}&logo=Polkadot&logoColor=fff" /> and other cryptocurrencies
-- My favorite browser <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style={{ badgeStyle }}&logo=Safari&logoColor=white" />
+- I Want to buy ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) Model Y or 3 with white interior
+- When i work, i listen ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) and ![Apple Music](https://img.shields.io/badge/Apple_Music-F34E68?style=flat&logo=apple%20music&logoColor=white)
+- I invest to ![DASH](https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white) ![XRP](https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white) ![POLKADOT](https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff) and other cryptocurrencies
+- My favorite browser ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
 
 {{ #me.buymeacoffee }}
 ### if you like what i do, buy me a coffee 🥺
@@ -32,143 +31,39 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username={{ me.username }}&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{ me.username }}&layout=compact)](https://github.com/maloun96/github-readme-stats)
 
-### Nova Packages
+| Nova Packages |  |
+|-------------|-------------|
+{{ #novaPackages }}
+{{> package }}
+{{ /novaPackages }}
 
-<table>
-  <tbody>
-    {{ #novaPackages }}
-        <tr>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <b>{{ name }}</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Version" src="https://img.shields.io/{{ manager }}/v/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                </a>
-                {{ #packagist }}
-                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /packagist }}
-                {{ #npm }}
-                    <a href="https://www.npmjs.com/package/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /npm }}
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-    {{ /novaPackages }}
-  </tbody>
-</table>
+| Laravel Packages |  |
+|-------------|-------------|
+{{ #laravelPackages }}
+{{> package }}
+{{ /laravelPackages }}
 
-### Laravel Packages
-<table>
-  <tbody>
-    {{ #laravelPackages }}
-        <tr>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <b>{{ name }}</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Version" src="https://img.shields.io/{{ manager }}/v/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                </a>
-                {{ #packagist }}
-                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /packagist }}
-                {{ #npm }}
-                    <a href="https://www.npmjs.com/package/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /npm }}
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-    {{ /laravelPackages }}
-  </tbody>
-</table>
-
-### Other Packages
-
-<table>
-  <tbody>
-    {{ #otherPackages }}
-        <tr>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <b>{{ name }}</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Version" src="https://img.shields.io/{{ manager }}/v/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                </a>
-                {{ #packagist }}
-                    <a href="https://packagist.org/packages/{{ me.username }}/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /packagist }}
-                {{ #npm }}
-                    <a href="https://www.npmjs.com/package/{{ key }}">
-                        <img alt="Downloads" src="https://img.shields.io/{{ manager }}/dt/{{ package }}?style={{ badgeStyle }}&labelColor=343b41" />
-                    </a>
-                {{ /npm }}
-                <a href="https://github.com/{{ me.username }}/{{ key }}">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/{{ me.username }}/{{ key }}/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{{ me.username }}/{{ key }}?style={{ badgeStyle }}&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-    {{ /otherPackages }}
-  </tbody>
-</table>
+| Other Packages |  |
+|-------------|-------------|
+{{ #otherPackages }}
+{{> package }}
+{{ /otherPackages }}
 
 ------------
 {{ #city }}
 <p align="center">
-Currently, the weather in {{ city }} is: <b>{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}</b><br/>
-Today, the sun rises at <b>{{ sun_rise }}</b> and sets at <b>{{ sun_set }}</b>
+Currently, the weather in {{ city }} is: **{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}**
+
+Today, the sun rises at **{{ sun_rise }}** and sets at **{{ sun_set }}**
 </p>
 {{ /city }}
 
 {{ #readmeUpdatedInfo }}
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{ date }}</p>
-<p align="center"><img src="https://github.com/{{ me.username }}/{{ me.username }}/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41"/></p>
+This *README* file is generated **every 3 hours**!
+
+Last refresh: {{ date }}
+
+![Github Profile](https://github.com/{{ me.username }}/{{ me.username }}/workflows/README%20build/badge.svg)
+![Stars](https://img.shields.io/github/stars/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41)
+![Forks](https://img.shields.io/github/forks/{{ me.username }}/{{ me.username }}?style={{ badgeStyle }}&labelColor=343b41)
 {{ /readmeUpdatedInfo }}

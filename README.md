@@ -8,47 +8,46 @@
 
 I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast, 'cause I enjoy taking part in every project. This is a good opportunity for me to learn, to get new skills, and to meet new interesting people. First of all, to make a website, I concentrate on what the user need, then, I do my work pixel-by-pixel. I create perfect UI solutions using HTML, CSS, Javascript, etc. and scalable backend using PHP. Providing excellent feedback, I can guarantee a quick and high-quality work. You'll get a good experience cooperating with me.
 
-### Things I code with :man_technologist:
-<p>
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-777BB4?style=flat&logo=vue.js&logoColor=white" />
-    <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-    <img alt="Visual_Studio_Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-    <img alt="JSON" src="https://img.shields.io/badge/-JSON-0000?style=flat&logo=json&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-    <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
-    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-    <img alt="Angular" src="https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=white" />
-    <img alt="Tailwind_CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
-    <img alt="Json_Web_Tokens" src="https://img.shields.io/badge/-Json_Web_Tokens-323330?style=flat&logo=json-web-tokens&logoColor=white" />
-    <img alt="Editor_Config" src="https://img.shields.io/badge/-Editor_Config-000?style=flat&logo=editorconfig&logoColor=white" />
-    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" />
-    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-</p>
+### Things I code with :man_technologist
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-777BB4?style=flat&logo=vue.js&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-0000?style=flat&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Json_Web_Tokens](https://img.shields.io/badge/-Json_Web_Tokens-323330?style=flat&logo=json-web-tokens&logoColor=white)
+![Editor_Config](https://img.shields.io/badge/-Editor_Config-000?style=flat&logo=editorconfig&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### More about me
 
-- I Want to buy <img alt="Tesla" src="https://aleen42.github.io/badges/src/tesla.svg" /> Model Y or 3 with white interior
-- When i work, i listen <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" /> and <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-F34E68?style=flat&logo=apple%20music&logoColor=white" />
-- I invest to <img alt="DASH" src="https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white" /> <img alt="XRP" src="https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white" /> <img alt="POLKADOT" src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff" /> and other cryptocurrencies
-- My favorite browser <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white" />
+- I Want to buy ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) Model Y or 3 with white interior
+- When i work, i listen ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) and ![Apple Music](https://img.shields.io/badge/Apple_Music-F34E68?style=flat&logo=apple%20music&logoColor=white)
+- I invest to ![DASH](https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white) ![XRP](https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white) ![POLKADOT](https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff) and other cryptocurrencies
+- My favorite browser ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
 
 ### if you like what i do, buy me a coffee 🥺
 
@@ -58,490 +57,38 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepanenko3&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanenko3&layout=compact)](https://github.com/maloun96/github-readme-stats)
 
-### Nova Packages
+| Nova Packages |  |
+|-------------|-------------|
+| **[Nova Command Runner](https://github.com/stepanenko3/nova-command-runner)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-command-runner) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-command-runner)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-command-runner?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-command-runner) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-command-runner?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-command-runner/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-command-runner?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-command-runner/pulls) |
+| **[Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-logs-tool) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-logs-tool)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-logs-tool) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-logs-tool/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-logs-tool/pulls) |
+| **[Nova Cards](https://github.com/stepanenko3/nova-cards)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-cards) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-cards)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-cards?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-cards) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-cards?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-cards/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-cards?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-cards/pulls) |
+| **[Nova Health](https://github.com/stepanenko3/nova-health)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-health) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-health)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-health?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-health) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-health?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-health/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-health?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-health/pulls) |
+| **[Nova Settings](https://github.com/stepanenko3/nova-settings)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-settings) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-settings)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-settings?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-settings) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-settings?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-settings/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-settings?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-settings/pulls) |
+| **[Nova Filemanager](https://github.com/stepanenko3/nova-filemanager)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-filemanager) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-filemanager)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-filemanager?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-filemanager) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-filemanager?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-filemanager/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-filemanager?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-filemanager/pulls) |
+| **[Nova Markdown](https://github.com/stepanenko3/nova-markdown)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-markdown) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-markdown)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-markdown?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-markdown) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-markdown?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-markdown/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-markdown?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-markdown/pulls) |
+| **[Nova JSON](https://github.com/stepanenko3/nova-json)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-json) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-json)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-json?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-json) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-json?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-json/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-json?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-json/pulls) |
+| **[Nova Menu Collapsed](https://github.com/stepanenko3/nova-menu-collapsed)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-menu-collapsed) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-menu-collapsed)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-menu-collapsed) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-menu-collapsed/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-menu-collapsed/pulls) |
+| **[Nova Image Tags](https://github.com/stepanenko3/nova-image-tags)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-image-tags) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/nova-image-tags)  [![Stars](https://img.shields.io/github/stars/stepanenko3/nova-image-tags?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-image-tags) [![Issues](https://img.shields.io/github/issues/stepanenko3/nova-image-tags?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-image-tags/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/nova-image-tags?style=flat&labelColor=343b41)](https://github.com/stepanenko3/nova-image-tags/pulls) |
 
-<table>
-  <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-command-runner">
-                    <b>Nova Command Runner</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-command-runner">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-command-runner">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-command-runner?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-command-runner">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-command-runner?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-command-runner/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-command-runner?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-command-runner/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-command-runner?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-command-runner/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-command-runner?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-logs-tool">
-                    <b>Nova Logs Tool</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-logs-tool">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-logs-tool">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-logs-tool?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-logs-tool">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-logs-tool/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-logs-tool/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-logs-tool/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-logs-tool?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-cards">
-                    <b>Nova Cards</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-cards">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-cards">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-cards?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-cards">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-cards?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-cards/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-cards?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-cards/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-cards?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-cards/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-cards?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-health">
-                    <b>Nova Health</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-health">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-health">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-health?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-health">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-health?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-health/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-health?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-health/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-health?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-health/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-health?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-settings">
-                    <b>Nova Settings</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-settings">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-settings">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-settings?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-settings">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-settings/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-settings/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-settings/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-settings?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-filemanager">
-                    <b>Nova Filemanager</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-filemanager">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-filemanager">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-filemanager?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-filemanager">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-filemanager?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-filemanager/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-filemanager?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-filemanager/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-filemanager?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-filemanager/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-filemanager?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-markdown">
-                    <b>Nova Markdown</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-markdown">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-markdown">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-markdown?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-markdown">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-markdown?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-markdown/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-markdown?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-markdown/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-markdown?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-markdown/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-markdown?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-json">
-                    <b>Nova JSON</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-json">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-json">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-json?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-json">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-json?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-json/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-json?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-json/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-json?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-json/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-json?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed">
-                    <b>Nova Menu Collapsed</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-menu-collapsed">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-menu-collapsed?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-menu-collapsed/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-menu-collapsed?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-image-tags">
-                    <b>Nova Image Tags</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/nova-image-tags">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/nova-image-tags">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;nova-image-tags?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/nova-image-tags">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/nova-image-tags?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-image-tags/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/nova-image-tags?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-image-tags/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/nova-image-tags?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/nova-image-tags/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/nova-image-tags?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-  </tbody>
-</table>
+| Laravel Packages |  |
+|-------------|-------------|
+| **[Laravel System Resources](https://github.com/stepanenko3/laravel-system-resources)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-system-resources) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/laravel-system-resources)  [![Stars](https://img.shields.io/github/stars/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-system-resources) [![Issues](https://img.shields.io/github/issues/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-system-resources/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-system-resources/pulls) |
+| **[Laravel Pagination](https://github.com/stepanenko3/laravel-pagination)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-pagination) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/laravel-pagination)  [![Stars](https://img.shields.io/github/stars/stepanenko3/laravel-pagination?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-pagination) [![Issues](https://img.shields.io/github/issues/stepanenko3/laravel-pagination?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-pagination/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/laravel-pagination?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-pagination/pulls) |
+| **[Laravel Helpers](https://github.com/stepanenko3/laravel-helpers)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-helpers) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/laravel-helpers)  [![Stars](https://img.shields.io/github/stars/stepanenko3/laravel-helpers?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-helpers) [![Issues](https://img.shields.io/github/issues/stepanenko3/laravel-helpers?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-helpers/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/laravel-helpers?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-helpers/pulls) |
+| **[Laravel Runtime Config](https://github.com/stepanenko3/laravel-runtime-config)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-runtime-config) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/laravel-runtime-config)  [![Stars](https://img.shields.io/github/stars/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-runtime-config) [![Issues](https://img.shields.io/github/issues/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-runtime-config/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-runtime-config/pulls) |
+| **[Laravel Log Viewer](https://github.com/stepanenko3/laravel-log-viewer)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-log-viewer) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/laravel-log-viewer)  [![Stars](https://img.shields.io/github/stars/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-log-viewer) [![Issues](https://img.shields.io/github/issues/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-log-viewer/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41)](https://github.com/stepanenko3/laravel-log-viewer/pulls) |
 
-### Laravel Packages
-<table>
-  <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-system-resources">
-                    <b>Laravel System Resources</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-system-resources">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/laravel-system-resources">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-system-resources?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/laravel-system-resources">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-system-resources/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-system-resources/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-system-resources/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-system-resources?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-pagination">
-                    <b>Laravel Pagination</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-pagination">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/laravel-pagination">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-pagination?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/laravel-pagination">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-pagination/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-pagination/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-pagination/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-pagination?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-helpers">
-                    <b>Laravel Helpers</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-helpers">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/laravel-helpers">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-helpers?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/laravel-helpers">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-helpers/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-helpers/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-helpers/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-helpers?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config">
-                    <b>Laravel Runtime Config</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/laravel-runtime-config">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-runtime-config?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-runtime-config/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-runtime-config?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer">
-                    <b>Laravel Log Viewer</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/laravel-log-viewer">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;laravel-log-viewer?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/laravel-log-viewer/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/laravel-log-viewer?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-  </tbody>
-</table>
-
-### Other Packages
-
-<table>
-  <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/vue3-nestable">
-                    <b>Vue3 Nestable</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/vue3-nestable">
-                    <img alt="Version" src="https://img.shields.io/npm/v/vue3-nestable?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://www.npmjs.com/package/vue3-nestable">
-                        <img alt="Downloads" src="https://img.shields.io/npm/dt/vue3-nestable?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/vue3-nestable">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/vue3-nestable?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/vue3-nestable/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/vue3-nestable?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/vue3-nestable/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/vue3-nestable?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/vue3-nestable/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/vue3-nestable?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/stepanenko3/composer-versions-check">
-                    <b>Composer Versions Check</b>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/stepanenko3/composer-versions-check">
-                    <img alt="Version" src="https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41" />
-                </a>
-                    <a href="https://packagist.org/packages/stepanenko3/composer-versions-check">
-                        <img alt="Downloads" src="https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41" />
-                    </a>
-                <a href="https://github.com/stepanenko3/composer-versions-check">
-                    <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/composer-versions-check?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/composer-versions-check/network/members">
-                    <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/composer-versions-check?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/composer-versions-check/issues">
-                    <img alt="Issues" src="https://img.shields.io/github/issues/stepanenko3/composer-versions-check?style=flat&labelColor=343b41"/>
-                </a>
-                <a href="https://github.com/stepanenko3/composer-versions-check/pulls">
-                    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stepanenko3/composer-versions-check?style=flat&labelColor=343b41"/>
-                </a>
-            </td/>
-        </tr>
-  </tbody>
-</table>
+| Other Packages |  |
+|-------------|-------------|
+| **[Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)** | [![Version](https://img.shields.io/npm/v/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable)  [![Downloads](https://img.shields.io/npm/dt/vue3-nestable?style=flat&labelColor=343b41)](https://www.npmjs.com/package/vue3-nestable) [![Stars](https://img.shields.io/github/stars/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable) [![Issues](https://img.shields.io/github/issues/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/pulls) |
+| **[Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/composer-versions-check)  [![Stars](https://img.shields.io/github/stars/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Issues](https://img.shields.io/github/issues/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/pulls) |
 
 ------------
-<p align="center">
-Currently, the weather in Kyiv is: <b>10°C, feels like 10°C, light rain</b><br/>
-Today, the sun rises at <b>06:59</b> and sets at <b>18:35</b>
-</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 2 October at 18:02 EEST</p>
-<p align="center"><img src="https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41"/></p>
+This *README* file is generated **every 3 hours**!
+
+Last refresh: Sunday, 2 October, 21:01 EEST
+
+![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
+![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)
+![Forks](https://img.shields.io/github/forks/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

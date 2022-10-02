@@ -84,10 +84,15 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 | **[Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/composer-versions-check)  [![Stars](https://img.shields.io/github/stars/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Issues](https://img.shields.io/github/issues/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/pulls) |
 
 ------------
+<p align="center">
+Currently, the weather in Kyiv is: **9°C, feels like 9°C, light rain**
+
+Today, the sun rises at **06:59** and sets at **18:35**
+</p>
 
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Sunday, 2 October, 21:01 EEST
+Last refresh: Sunday, 2 October at 21:02 EEST
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

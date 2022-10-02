@@ -5,8 +5,14 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 
 const templates = {
-    main: 'main.mustache',
-    package: 'package.mustache',
+    main: {
+        path: './main.mustache',
+        removeLineBreaks: false,
+    },
+    package: {
+        path: './package.mustache',
+        removeLineBreaks: true,
+    },
 };
 
 /**
@@ -380,7 +386,18 @@ async function generateReadMe(data) {
 
     Object
         .keys(templates)
-        .forEach(n => partials[n] = fs.readFileSync(templates[n]).toString())
+        .forEach(n => {
+            const template = templates[n];
+            let content = fs.readFileSync(template.path).toString();
+
+            if (template.removeLineBreaks) {
+                content = content
+                    .replace(/(\r\n|\n|\r)/gm, '')
+                    .replace(/\s\s+/g, ' ');
+            }
+
+            partials[n] = content;
+        })
 
     const main = partials.main || '';
 

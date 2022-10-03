@@ -392,7 +392,7 @@ async function generateReadMe(data) {
 
             if (template.removeLineBreaks) {
                 content = content
-                    .replace(/(\r\n|\n|\r)/gm, '')
+                    .replace(/(\r\n|\n|\r)/gm, ' ')
                     .replace(/\s\s+/g, ' ');
             }
 

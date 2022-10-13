@@ -268,6 +268,13 @@ function getRefreshDate() {
 
         laravelPackages: [
             {
+                name: 'Laravel Initializer',
+                key: 'laravel-initializer',
+                manager: 'packagist',
+                packagist: true,
+                npm: false,
+            },
+            {
                 name: 'Laravel System Resources',
                 key: 'laravel-system-resources',
                 manager: 'packagist',

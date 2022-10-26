@@ -50,7 +50,6 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Shell_Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
-![ThreeJs-black](https://img.shields.io/badge/-ThreeJs-black-white?style=flat&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
 ![web3.js](https://img.shields.io/badge/-web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
@@ -106,7 +105,7 @@ Today, the sun rises at **07:37** and sets at **17:45**
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Wednesday, 26 October at 20:52 EEST
+Last refresh: Wednesday, 26 October at 20:54 EEST
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

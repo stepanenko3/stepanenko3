@@ -237,11 +237,6 @@ function getRefreshDate() {
                 logo: 'Swagger',
             },
             {
-                key: 'ThreeJs-black',
-                color: 'white',
-                logo: 'three.js',
-            },
-            {
                 key: 'Vite',
                 color: 'B73BFE',
                 logo: 'vite',

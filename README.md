@@ -41,6 +41,21 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![eslint](https://img.shields.io/badge/-eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat&logo=rss&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Shell_Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
+![ThreeJs-black](https://img.shields.io/badge/-ThreeJs-black-white?style=flat&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
+![web3.js](https://img.shields.io/badge/-web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-E3C29B?style=flat&logo=pug&logoColor=white)
 
 ### More about me
 
@@ -84,14 +99,14 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 | **[Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)** | [![Version](https://img.shields.io/npm/v/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable)   [![Downloads](https://img.shields.io/npm/dt/vue3-nestable?style=flat&labelColor=343b41)](https://www.npmjs.com/package/vue3-nestable)  [![Stars](https://img.shields.io/github/stars/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable) [![Issues](https://img.shields.io/github/issues/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/pulls) |
 | **[Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check)  [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/composer-versions-check)   [![Stars](https://img.shields.io/github/stars/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Issues](https://img.shields.io/github/issues/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/pulls) |
 ------------
-🌤 Currently, the weather in Kyiv is: **13°C, feels like 13°C, overcast clouds**
+🌤 Currently, the weather in Kyiv is: **13°C, feels like 12°C, broken clouds**
 
 Today, the sun rises at **07:37** and sets at **17:45**
 
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Wednesday, 26 October at 18:04 EEST
+Last refresh: Wednesday, 26 October at 20:52 EEST
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

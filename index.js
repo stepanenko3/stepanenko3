@@ -191,6 +191,81 @@ function getRefreshDate() {
                 color: 'CB3837',
                 logo: 'npm',
             },
+            {
+                key: 'rabbitmq',
+                color: '%23FF6600',
+                logo: 'rabbitmq',
+            },
+            {
+                key: 'eslint',
+                color: '3A33D1',
+                logo: 'eslint',
+            },
+            {
+                key: 'Jenkins',
+                color: 'D24939',
+                logo: 'Jenkins',
+            },
+            {
+                key: 'RSS',
+                color: 'FFA500',
+                logo: 'rss',
+            },
+            {
+                key: 'GitHub_Actions',
+                color: '2088FF',
+                logo: 'github-actions',
+            },
+            {
+                key: 'Gulp',
+                color: 'CF4647',
+                logo: 'gulp',
+            },
+            {
+                key: 'Postman',
+                color: 'FF6C37',
+                logo: 'postman',
+            },
+            {
+                key: 'Shell_Script',
+                color: '121011',
+                logo: 'gnu-bash',
+            },
+            {
+                key: 'Swagger',
+                color: '85EA2D',
+                logo: 'Swagger',
+            },
+            {
+                key: 'ThreeJs-black',
+                color: 'white',
+                logo: 'three.js',
+            },
+            {
+                key: 'Vite',
+                color: 'B73BFE',
+                logo: 'vite',
+            },
+            {
+                key: 'web3.js',
+                color: 'F16822',
+                logo: 'web3.js',
+            },
+            {
+                key: 'Vuetify',
+                color: '1867C0',
+                logo: 'vuetify',
+            },
+            {
+                key: 'Yarn',
+                color: '2C8EBB',
+                logo: 'yarn',
+            },
+            {
+                key: 'Pug',
+                color: 'E3C29B',
+                logo: 'pug',
+            },
         ],
 
         novaPackages: [

@@ -279,6 +279,20 @@ function getRefreshDate() {
                 npm: false,
             },
             {
+                name: 'Nova Media Field',
+                key: 'nova-media-field',
+                manager: 'packagist',
+                packagist: true,
+                npm: false,
+            },
+            {
+                name: 'Nova Settings',
+                key: 'nova-settings',
+                manager: 'packagist',
+                packagist: true,
+                npm: false,
+            },
+            {
                 name: 'Nova Cards',
                 key: 'nova-cards',
                 manager: 'packagist',
@@ -288,13 +302,6 @@ function getRefreshDate() {
             {
                 name: 'Nova Health',
                 key: 'nova-health',
-                manager: 'packagist',
-                packagist: true,
-                npm: false,
-            },
-            {
-                name: 'Nova Settings',
-                key: 'nova-settings',
                 manager: 'packagist',
                 packagist: true,
                 npm: false,
@@ -482,7 +489,7 @@ async function generateReadMe(data) {
         return;
 
     const output = Mustache.render(main, data, partials);
-    
+
     fs.writeFileSync('README.md', output);
 }
 

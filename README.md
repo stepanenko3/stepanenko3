@@ -68,8 +68,7 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 <a href="https://www.buymeacoffee.com/stepanenko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### My Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepanenko3&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanenko3&layout=compact)](https://github.com/maloun96/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepanenko3&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanenko3&layout=compact&langs_count=8&hide_progress=true)](https://github.com/maloun96/github-readme-stats)
 
 | Nova Packages |  |
 | :-- | :-- |
@@ -99,14 +98,14 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 | **[Vue3 Nestable](https://github.com/stepanenko3/vue3-nestable)** | [![Version](https://img.shields.io/npm/v/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable)   [![Downloads](https://img.shields.io/npm/dt/vue3-nestable?style=flat&labelColor=343b41)](https://www.npmjs.com/package/vue3-nestable)  [![Stars](https://img.shields.io/github/stars/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable) [![Issues](https://img.shields.io/github/issues/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/vue3-nestable?style=flat&labelColor=343b41)](https://github.com/stepanenko3/vue3-nestable/pulls) |
 | **[Composer Versions Check](https://github.com/stepanenko3/composer-versions-check)** | [![Version](https://img.shields.io/packagist/v/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check)  [![Downloads](https://img.shields.io/packagist/dt/stepanenko3&#x2F;composer-versions-check?style=flat&labelColor=343b41)](https://packagist.org/packages/stepanenko3/composer-versions-check)   [![Stars](https://img.shields.io/github/stars/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check) [![Issues](https://img.shields.io/github/issues/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/stepanenko3/composer-versions-check?style=flat&labelColor=343b41)](https://github.com/stepanenko3/composer-versions-check/pulls) |
 ------------
-🌤 Currently, the weather in Kyiv is: **20°C, feels like 19°C, few clouds**
+🌤 Currently, the weather in Kyiv is: **27°C, feels like 27°C, few clouds**
 
 Today, the sun rises at **04:57** and sets at **20:52**
 
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Friday, 26 May at 09:06 EEST
+Last refresh: Friday, 26 May at 11:36 EEST
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

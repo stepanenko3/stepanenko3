@@ -58,7 +58,6 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ### More about me
 
-- I Want to buy ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) Model Y or 3 with white interior
 - When i work, i listen ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) and ![Apple Music](https://img.shields.io/badge/Apple_Music-F34E68?style=flat&logo=apple%20music&logoColor=white)
 - I invest to ![DASH](https://img.shields.io/badge/DASH-008DE4?style=flat&logo=dash&logoColor=white) ![XRP](https://img.shields.io/badge/XRP-black?style=flat&logo=xrp&logoColor=white) ![POLKADOT](https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=Polkadot&logoColor=fff) and other cryptocurrencies
 - My favorite browser ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
@@ -105,7 +104,7 @@ Today, the sun rises at **06:39** and sets at **17:40**
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Saturday, 2 March at 17:00 EET
+Last refresh: Saturday, 2 March at 17:02 EET
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

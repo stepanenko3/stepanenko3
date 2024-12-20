@@ -104,7 +104,7 @@ Today, the sun rises at **07:55** and sets at **15:55**
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Friday, 20 December at 14:00 EET
+Last refresh: Friday, 20 December at 17:00 EET
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

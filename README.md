@@ -99,12 +99,12 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ------------
 🌤 Currently, the weather in Kyiv is: **7°C, feels like 7°C, overcast clouds**
 
-Today, the sun rises at **07:58** and sets at **16:05**
+Today, the sun rises at **07:58** and sets at **16:06**
 
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Thursday, 2 January at 23:00 EET
+Last refresh: Friday, 3 January at 02:00 EET
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

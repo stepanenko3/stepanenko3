@@ -31,9 +31,7 @@ Homestead.yaml
 
 config/version.yml
 
-package-lock.json
 composer.phar
-composer.lock
 yarn.lock
 
 _ide_helper.php

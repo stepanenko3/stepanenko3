@@ -15,10 +15,10 @@ jobs:
       - name: Checkout current repository
         uses: actions/checkout@v3
 
-      - name: Setup NodeJs 16.x
+      - name: Setup NodeJs 22.x
         uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies

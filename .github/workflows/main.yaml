@@ -10,25 +10,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: Env
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
+      - name: Checkout current repository
+        uses: actions/checkout@v3
 
       - name: Setup NodeJs 16.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: '16.x'
-
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v3
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          node-version: '16'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Generate README file
         run: node index.js

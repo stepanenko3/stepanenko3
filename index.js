@@ -46,6 +46,26 @@ function getRefreshDate() {
                 logo: 'laravel',
             },
             {
+                key: 'Filament',
+                color: 'FDAE4B',
+                logo: 'filament',
+            },
+            {
+                key: 'Nuxt',
+                color: '00DC82',
+                logo: 'nuxt',
+            },
+            {
+                key: 'Docker',
+                color: '46a2f1',
+                logo: 'docker',
+            },
+            {
+                key: 'Nova',
+                color: '252D37',
+                logo: 'laravelnova',
+            },
+            {
                 key: 'JavaScript',
                 color: 'F7DF1E',
                 logo: 'javascript',
@@ -56,29 +76,14 @@ function getRefreshDate() {
                 logo: 'vue.js',
             },
             {
-                key: 'MacOS',
-                color: '000000',
-                logo: 'apple',
-            },
-            {
-                key: 'Docker',
-                color: '46a2f1',
-                logo: 'docker',
-            },
-            {
-                key: 'Visual_Studio_Code',
-                color: '0078D4',
-                logo: 'visual-studio-code',
+                key: 'PostgreSQL',
+                color: '316192',
+                logo: 'postgresql',
             },
             {
                 key: 'MySQL',
                 color: '4479A1',
                 logo: 'mysql',
-            },
-            {
-                key: 'PostgreSQL',
-                color: '316192',
-                logo: 'postgresql',
             },
             {
                 key: 'JSON',
@@ -177,6 +182,11 @@ function getRefreshDate() {
                 logo: 'github',
             },
             {
+                key: 'BitBucket',
+                color: '0052CC',
+                logo: 'bitbucket',
+            },
+            {
                 key: 'Figma',
                 color: 'F24E1E',
                 logo: 'figma',
@@ -260,6 +270,16 @@ function getRefreshDate() {
                 key: 'Pug',
                 color: 'E3C29B',
                 logo: 'pug',
+            },
+            {
+                key: 'MacOS',
+                color: '000000',
+                logo: 'apple',
+            },
+            {
+                key: 'Visual_Studio_Code',
+                color: '0078D4',
+                logo: 'visual-studio-code',
             },
         ],
 

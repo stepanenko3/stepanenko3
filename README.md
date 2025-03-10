@@ -12,13 +12,14 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=filament&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
+![Nova](https://img.shields.io/badge/-Nova-252D37?style=flat&logo=laravelnova&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-777BB4?style=flat&logo=vue.js&logoColor=white)
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white)
-![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-0000?style=flat&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -38,6 +39,7 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat&logo=github&logoColor=white)
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
@@ -55,6 +57,8 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-E3C29B?style=flat&logo=pug&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### More about me
 
@@ -100,7 +104,7 @@ I’ve been a web developer 💻 since **2016**. I consider myself an enthusiast
 ------------
 This *README* file is generated **every 3 hours**!
 
-Last refresh: Monday 10 March at 17:00 EET
+Last refresh: Monday 10 March at 19:31 EET
 
 ![Github Profile](https://github.com/stepanenko3/stepanenko3/workflows/README%20build/badge.svg)
 ![Stars](https://img.shields.io/github/stars/stepanenko3/stepanenko3?style=flat&labelColor=343b41)

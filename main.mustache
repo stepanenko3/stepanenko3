@@ -49,6 +49,13 @@ I’ve been a web developer 💻 since **{{ me.startWorkingYear }}**. I consider
 {{> package }}
 
 {{ /otherPackages }}
+
+| Javascript && Typescript Packages |  |
+| :-- | :-- |
+{{ #jsPackages }}
+{{> package }}
+
+{{ /jsPackages }}
 {{ #city }}
 ------------
 🌤 Currently, the weather in {{ city }} is: **{{ city_temp }}°C, feels like {{ city_temp_feels_like }}°C, {{ city_weather }}**

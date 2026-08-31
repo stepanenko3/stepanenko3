@@ -425,6 +425,23 @@ function getRefreshDate() {
             },
         ],
 
+        jsPackages: [
+            {
+                name: 'Js Utils',
+                key: '@stepanenko3/js-utils',
+                manager: 'npm',
+                packagist: false,
+                npm: true,
+            },
+            {
+                name: 'Js Toasts',
+                key: '@stepanenko3/js-toast',
+                manager: 'npm',
+                packagist: false,
+                npm: true,
+            },
+        ],
+
         date: new Date().toLocaleDateString('en-GB', {
             weekday: 'long',
             month: 'long',
